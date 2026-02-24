@@ -13,18 +13,18 @@ const AboutPage = () => {
         <header className={styles.header}>
           <div className={styles.headerContent}>
             <div className={styles.headerText}>
-              <h1 className={styles.name}>Nitin Ranganath</h1>
-              <p className={styles.role}>Software Engineer at Tessact</p>
+              <h1 className={styles.name}>Jerime Sarmiento</h1>
+              <p className={styles.role}>Student at Rizal Technological University</p>
               <div className={styles.location}>
                 <span className={styles.dot} />
-                Mumbai, India
+                Mandaluyong, Philippines
               </div>
             </div>
           </div>
           
           <div className={styles.headerActions}>
             <a 
-              href="https://github.com/itsnitinr" 
+              href="https://github.com/jerimesarmiento" 
               target="_blank" 
               rel="noopener noreferrer"
               className={styles.iconButton}
@@ -47,9 +47,11 @@ const AboutPage = () => {
             
             <div className={styles.sectionBody}>
               <p className={styles.paragraph}>
-                I&apos;m a software engineer passionate about crafting beautiful, performant 
-                web experiences. I primarily work with the JavaScript/TypeScript ecosystem 
-                and React, building products that people love to use.
+                I&apos;m a 3rd year BSIT student at RTU who’s passionate about crafting 
+                modern, responsive, and user-friendly web experiences. I primarily work 
+                with HTML, CSS, and JavaScript, and I also build projects using PHP, Java,
+                and Python. I love learning new technologies and turning ideas into real,
+                usable products.
               </p>
               
               <p className={styles.paragraph}>
@@ -72,13 +74,13 @@ const AboutPage = () => {
                 <div className={styles.expMeta}>
                   <span className={styles.expPeriod}>Present</span>
                 </div>
-                <h3 className={styles.expRole}>Software Engineer 2</h3>
-                <p className={styles.expCompany}>Tessact</p>
+                <h3 className={styles.expRole}>Student Web Developer</h3>
+                <p className={styles.expCompany}>Rizal Technological University</p>
                 <ul className={styles.expList}>
-                  <li>Leading frontend development with a lean team of 4 engineers</li>
-                  <li>Building a next-gen video creation suite for professionals</li>
+                  <li>Developed responsive web interfaces using HTML, CSS, and JavaScript</li>
+                  <li>Built backend features using PHP and MySQL for school projects</li>
                   <li>Implemented collaborative video reviewing and editing features</li>
-                  <li>Maintaining in-house component library, icon library and website</li>
+                  <li>Continuously learning and experimenting with Node.js, Express, and MongoDB</li>
                 </ul>
               </div>
 
@@ -147,7 +149,7 @@ const AboutPage = () => {
           <section className={styles.section}>
             <div className={styles.sectionHeader}>
               <span className={styles.sectionNumber}>04</span>
-              <h2 className={styles.sectionTitle}>Writing</h2>
+              <h2 className={styles.sectionTitle}>Beyond Code</h2>
             </div>
             
             <div className={styles.sectionBody}>
