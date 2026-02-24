@@ -19,16 +19,17 @@ export default function HomePage() {
           <div className={styles.intro}>
             <p className={styles.greeting}>Hello, I&apos;m</p>
             
-            <h1 className={styles.name}>Nitin Ranganath</h1>
+            <h1 className={styles.name}>Jerime Sarmiento</h1>
             
             <p className={styles.role}>Full Stack Developer</p>
             
             <div className={styles.divider} />
             
             <p className={styles.description}>
-              I craft clean, performant web applications with modern technologies. 
-              Specialized in TypeScript, React, Node.js, and building products 
-              that users love.
+            I turn ideas into clean, efficient web applications, drawing 
+            from my hands-on IT experience. Specializing in TypeScript, 
+            React, and Node.js, I craft solutions that users enjoy and 
+            that reflect my journey in technology.
             </p>
           </div>
 
@@ -45,7 +46,7 @@ export default function HomePage() {
 
           <div className={styles.links}>
             <a 
-              href="https://github.com/itsnitinr" 
+              href="https://github.com/jerimesarmiento" 
               target="_blank" 
               rel="noopener noreferrer"
               className={styles.link}

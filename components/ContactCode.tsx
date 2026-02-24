@@ -3,38 +3,43 @@ import styles from '@/styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'nitinranganath.com',
+    link: 'jerimesarmiento.com',
     href: 'https://nitinranganath.com',
   },
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'jerimesarmiento162005@gmail.com',
+    href: 'mailto:jerimesarmiento162005@gmail.com',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'jerimesarmiento',
+    href: 'https://github.com/jerimesarmiento',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'jerime-sarmiento',
+    href: 'https://www.linkedin.com/in/jerime-sarmiento-3828473a2/',
+  },
+    {
+    social: 'facebook',
+    link: 'jerime-sarmiento',
+    href: 'https://web.facebook.com/jerime.sarmiento.5',
   },
   {
-    social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
+    social: 'x',
+    link: 'jerime_162005',
+    href: 'https://x.com/jerime_162005',
   },
   {
     social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
+    link: 'jerime162005',
+    href: 'https://t.me/jerime162005',
   },
   {
     social: 'peerlist',
-    link: 'nitinranganath',
-    href: 'https://peerlist.io/nitinranganath',
+    link: 'jerime162005',
+    href: 'https://peerlist.io/jerimesa162005',
   },
 ];
 
